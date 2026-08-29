@@ -98,7 +98,7 @@ function Navbar() {
           </div>
 
           <span className="text-[20px] font-semibold tracking-[-0.045em] text-white">
-            Hire<span className="text-slate-500">Flowv1.2.3.31.1</span>
+            Hire<span className="text-slate-500">Flowv1111111111111.1</span>
           </span>
         </Link>
 
