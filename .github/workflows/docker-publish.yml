@@ -262,7 +262,7 @@ jobs:
           # Owner is NOT hard-coded.
           # Any GHCR owner is accepted:
           #
-          # ghcr.io/annusingh1211/hireflow-backend:build-14
+          # ghcr.io/devendra-5470/hireflow-backend:build-14
           # ghcr.io/annusingh1211/hireflow-backend:build-15
           #
           # Both will be replaced.
