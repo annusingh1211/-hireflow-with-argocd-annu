@@ -19,7 +19,7 @@ env:
   REGISTRY: ghcr.io
   IMAGE_OWNER: annusingh1211
 
-  GITOPS_REPO: annusingh1211/hireflow-gitops
+  GITOPS_REPO: annusingh1211/hireflow-gitops-devops
 
   BACKEND_IMAGE: ghcr.io/annusingh1211/hireflow-backend
   FRONTEND_IMAGE: ghcr.io/annusingh1211/hireflow-frontend
